@@ -1,0 +1,5 @@
+{
+  "/health": "/status",
+  "/enroll/users/list": "/profiles",
+  "/enroll/users/:id": "/profiles/:id"
+}
